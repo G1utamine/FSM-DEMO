@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\wallslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\wallslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\hurtstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\hurtstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\dashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\dashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\states\\comboattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\states\\comboattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\assets\\script\\statemachine\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\icharactercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\icharactercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\istatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\istatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WallSlide.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\WallSlide.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\WallSlide.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\WallSlide.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\WallSlide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalkState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\WalkState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\WalkState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\WalkState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\WalkState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\RunState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\RunState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\RunState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\RunState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JumpState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\JumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\JumpState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\JumpState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\JumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\IdleState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\IdleState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HurtState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\HurtState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\HurtState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\HurtState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\HurtState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FallState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\FallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\FallState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\FallState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\FallState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\DashState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\DashState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\DashState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\DashState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComboAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\ComboAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\States\\ComboAttackState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\States\\ComboAttackState.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\States\\ComboAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:45.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\StateMachine.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\IStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\IStateMachine.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\IStateMachine.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\IStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:08.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\IState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\IState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\IState.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\IState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:08.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICharacterContext.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\ICharacterContext.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\ICharacterContext.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\ICharacterContext.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\ICharacterContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:08.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\CharacterStats.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\CharacterStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:08.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\Input\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Input\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\Input\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Input\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:48:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIBEwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:31:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\BaseState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\BaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:30:42.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

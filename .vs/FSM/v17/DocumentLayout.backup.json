@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|c:\\users\\xiejun\\documents\\project\\unityproject\\fsm\\assets\\script\\statemachine\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFD2026-E953-6356-822D-8B437926CE1A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemachine\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:31:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StateMachine\\BaseState.cs",
+              "ToolTip": "C:\\Users\\XieJun\\Documents\\Project\\UnityProject\\FSM\\Assets\\Script\\StateMachine\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Script\\StateMachine\\BaseState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:30:42.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
